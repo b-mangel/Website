@@ -44,7 +44,7 @@ Our robot's design differed compared to the majority of robot designs. While mos
 </p>
 
 <p align="center">
-  <i>Majority of robot designs share similarities with this design we created during our ideation process, primarily the sliding arm to collect gems</i>
+  <i>Majority of robot designs shared similarities with this preliminary design we created during our ideation process, uses a sliding arm and bucket to collect gems</i>
 </p>
 
 <p align="center">
@@ -55,7 +55,6 @@ Our robot's design differed compared to the majority of robot designs. While mos
 <p align="center">
   <i>Final design of Black Widow, major differences are orientation of robot and rolling cart for gem collection</i>
 </p>
-
 
 During this project, I was tasked with creating our team logo and some of the CAD, machining and assembling the robot, writing the Labview coding loop for the NI MyRIO, and writing parts of our report.
 
@@ -70,6 +69,10 @@ During this project, I was tasked with creating our team logo and some of the CA
 If you're interested in learning more about the competition and our design process here is our [final video](https://www.youtube.com/watch?v=8frTduJzepY).
 
 ## <a name="4641"></a>CS 4641, Intro to Machine Learning: Group Project
+
+As the title of the class suggests, CS 4641 was an introductory course for upperclassmen to learn many unsupervised and supervised machine learning algorithms. At the start of the course students were split into groups and decided what topic to structure their projects' around. As I didn't know many students in my section, my team consisted of myself and three people I had never met previously. We chose the prediction of heart disease as our topic. The main premise of our project was to pull datasets from online and ran them through unsupervised learning algorithms to prune and improve the consistency of our data. Once the initial pruning was complete we utilized many supervised learning algorithms, such as: support vector machines (SVM), neural networks, logistic regression, and decision trees to determine which algorithms were better suited to this topic. 
+
+All four of us worked equally on the coding, presentations, data collection, and reseach for this project. The supervised learning algorithm I was responsible for during the project was decision trees. A more in-depth analysis of this project can be viewed on the [webpage](https://cs4641-group52.github.io/Heart-Disease-Risk-Project/) we needed to create.
 
 
 ## <a name="4182"></a>ME 4182, Capstone
