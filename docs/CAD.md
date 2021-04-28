@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title:  "All CAD I've Ever Made"
 ---
 
