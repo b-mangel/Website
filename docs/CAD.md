@@ -1,3 +1,10 @@
+---
+layout: home
+title:  "All CAD I've Ever Mdae"
+categories: portfolio
+---
+
+
 ## Porfolio Guide
 This guide will be split into specific projects, in chronological order. Alternatively, each one can be accessed by clicking it's subsequent link below.
 
