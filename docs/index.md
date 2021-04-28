@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: Home
 subtitle: A little bit about me
 ---
