@@ -17,8 +17,7 @@ author: Benjamin Mangel
 
 navbar-links:
   Home: "index"
-  Portfolio: 
-    - CAD: "portfolio/index.html"
+  Portfolio: "portfolio/index.html"
   #Resources:
    # - Beautiful Jekyll: "https://beautifuljekyll.com"
    # - Learn markdown: "https://www.markdowntutorial.com/"
