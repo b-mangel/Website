@@ -1,7 +1,6 @@
 ---
 layout: home
-title:  "All CAD I've Ever Mdae"
-categories: portfolio
+title:  "All CAD I've Ever Made"
 ---
 
 
