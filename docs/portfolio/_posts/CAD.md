@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "All CAD I've Ever Made"
+date: 2021
+categories: projects
 ---
 
 
