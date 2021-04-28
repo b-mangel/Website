@@ -1,3 +1,10 @@
+---
+layout: home
+title: Home
+subtitle: A little bit about me
+---
+
+
 <p align="center">
   <img src="Pro pic.png" />
 </p>
