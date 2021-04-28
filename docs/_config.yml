@@ -24,7 +24,7 @@ navbar-links:
   #Author's home: "https://deanattali.com"
   
 #to put posts from projects on different page
-paginate_path: "/portfolio/page:num/"
+#paginate_path: "/portfolio/page:num/"
 
 # --- Logo --- #
 
