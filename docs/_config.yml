@@ -46,15 +46,15 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  #email: "bhf.bmangel@gmail.com"
-  #facebook: ben.mangel.5
-  #github: daattali
-  #twitter: daattali
-  #patreon: DeanAttali
-  #youtube: c/daattali
+#  email: "bhf.bmangel@gmail.com"
+#  facebook: ben.mangel.5
+#  github: daattali
+#  twitter: daattali
+#  patreon: DeanAttali
+#  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-   linkedin: benjamin-mangel-397026127/
+#  linkedin: benjamin-mangel-397026127/
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -76,7 +76,7 @@ social-network-links:
 share-links-active:
   twitter: false
   facebook: false
-  linkedin: true
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
