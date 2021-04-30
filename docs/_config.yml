@@ -44,16 +44,18 @@ round-avatar: true
 
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
+# If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  #email: "someone@example.com"
- # facebook: deanattali
+  rss: false
+  email: "bhf.bmangel@gmail.com"
+  #facebook: ben.mangel.5
   #github: daattali
   #twitter: daattali
   #patreon: DeanAttali
   #youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+   linkedin: benjamin-mangel-397026127/
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -75,7 +77,7 @@ social-network-links:
 share-links-active:
   twitter: false
   facebook: false
-  linkedin: false
+  linkedin: true
   vk: false
 
 # How to display the link to your website in the footer
@@ -101,14 +103,14 @@ feed_show_tags: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
+navbar-col: "#D4D2CD"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
+page-col: "#F6FFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#EAEAEA"
+footer-col: "#EAEAE0"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 
