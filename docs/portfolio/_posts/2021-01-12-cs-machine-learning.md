@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CS 4641: Machine Learning Final Project
+title: "CS 4641: Machine Learning Final Project"
 categories: project
 ---
 
