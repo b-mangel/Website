@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CS 4641: Machine Learning Final Project
-tags: project
+categories: project
 ---
 
 
