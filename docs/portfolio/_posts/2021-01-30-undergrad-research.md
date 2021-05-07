@@ -34,9 +34,9 @@ Additionally, I redesigned the output gearing for the motors on the exoskeleton 
 
 <p align="center">
   <img src="https://github.com/b-mangel/Website/blob/main/docs/portfolio/_posts/_assets/top_left_mold.png?raw=true" width=350 />
-  <img src="https://github.com/b-mangel/Website/blob/main/docs/portfolio/_posts/_assets/top_right_mold.png?raw=true" width=350 />
+  <img src="https://github.com/b-mangel/Website/blob/main/docs/portfolio/_posts/_assets/top_right_mold.png?raw=true" width=325 />
   <img src="https://github.com/b-mangel/Website/blob/main/docs/portfolio/_posts/_assets/bottom_left_mold.png?raw=true" width=350 />
-  <img src="https://github.com/b-mangel/Website/blob/main/docs/portfolio/_posts/_assets/bottom_right_mold.png?raw=true" width=350 />
+  <img src="https://github.com/b-mangel/Website/blob/main/docs/portfolio/_posts/_assets/bottom_right_mold.png?raw=true" width=325 />
 </p>
 
 <p align="center">
