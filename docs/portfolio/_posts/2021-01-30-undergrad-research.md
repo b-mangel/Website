@@ -7,7 +7,7 @@ categories: projects
 ## Undergraduate Research Assistant
 During the Fall of 2020 I worked remotely as a research assistant in the Dynamic Adaptive Robotic Technologies (DART) Lab on the Rapid Operator Awareness with Mobile Robotics [(ROAMR)](https://sites.gatech.edu/dart-lab/research/) Project. The focus of this project is to increase human saftey through use of a lower-body exoskeleton and tactile sensors. While this project had a separate Virtically Integrated Program (VIP) team, I worked alone, directly with one of the graduate students, Aakash Bajpai. During this semester I was restricted to designing motor housings, output gearing, and carbon fiber molds in SOLIDWORKS due to the Coronavirus Pandemic.
 
-I will not be discribing the project in detail and instead focus on my contributions to it. For a greater in-depth analysis of what the project is and its main focus, please follow these links, you may need an account with IEEE for one of them:
+I will not be describing the project in detail and instead focus on my contributions to it. For a greater in-depth analysis of what the project is and its main focus, please follow these links, you may need an account with IEEE for one of them:
 - [Enhancing Physical Human Evasion of Moving Threats Using Tactile Cues](https://ieeexplore.ieee.org/document/8943999)
   - [Media](https://www.youtube.com/watch?v=v_ta9MbeRus)
 
