@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Undergraduate Research: Application of College"
+title: "Undergraduate Research: Application of Collegiate Study"
 categories: projects
 ---
 
