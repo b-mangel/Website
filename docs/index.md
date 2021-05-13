@@ -22,7 +22,7 @@ Welcome to my site! I graduated Georgia Institute of Technology in December of 2
 
 #### Quick Site Map
 Easy access to all my projects:
-- [ME 2110 Competition Project](portfolio/_posts/2021-01-12-me2110.md)
+- [ME 2110 Competition Project](portfolio/_posts/2020-12-20-me2110.md)
 - [CS 4641 Group Project](portfolio/_posts/2021-01-12-cs-machine-learning.md)
-- [ME 4182 Capstone](portfolio/_posts/2021-01-12-capstone.md)
-- [Undergraduate Research](portfolio/_posts/2021-01-12-undergrad-research.md)
+- [ME 4182 Capstone](portfolio/_posts/2021-01-17-capstone.md)
+- [Undergraduate Research](portfolio/_posts/2021-01-30-undergrad-research.md)
